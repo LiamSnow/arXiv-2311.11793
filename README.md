@@ -1,4 +1,4 @@
-# arXiv-2311.11793
+# An Implementation of "Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps" 
 
 [Paper Link](https://arxiv.org/abs/2311.11793)
 
